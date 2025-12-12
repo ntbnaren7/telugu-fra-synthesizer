@@ -78,6 +78,8 @@ Below are some examples of generated synthetic FRA documents:
 [form_b_sample_1.docx](https://github.com/user-attachments/files/24127387/form_b_sample_1.docx)
 [form_c_sample_1.docx](https://github.com/user-attachments/files/24127406/form_c_sample_1.docx)
 
+<img width="491" height="648" alt="Screenshot 2025-12-12 182622" src="https://github.com/user-attachments/assets/69c6cab9-148a-4ed7-b2f2-edb4de1b3fa7" />
+
 ---
 
 ## 👥 Contributing
