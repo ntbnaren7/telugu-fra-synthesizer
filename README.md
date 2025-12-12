@@ -1,5 +1,6 @@
 # 📝 Telugu FRA Document Synthesizer
 
+Synthetic Telugu FRA Document Generator for AI Model Training – Developed for SIH 2025
 Generate **realistic synthetic Telugu FRA (Forest Rights Act) documents** for AI and ML model training. This project helps create training datasets when real documents are scarce or confidential, ensuring your models can learn effectively from realistic data.
 
 ---
